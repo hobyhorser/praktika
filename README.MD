@@ -30,9 +30,9 @@
 
 - Склонируйте репозиторий с файлами
 
-    $ git clone https://github.com/JeickobI/code-play
+        $ git clone https://github.com/JeickobI/code-play
 
-    $ cd "папка сервера"
+        $ cd "папка сервера"
 
 - Импортируйте базу данных с демо датой.
 
